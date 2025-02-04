@@ -90,10 +90,9 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Contact
 
-For any questions or suggestions, please contact:
-
 - **Name:** Aarush Vardhan
 - **LinkedIn:** [Aarush Vardhan](https://www.linkedin.com/in/aarush-vardhan-111468320/)
+- **Spotify:**[Aarush](https://open.spotify.com/user/uyc6687uewdzyrq7zvojht3im?si=c509535df76e45d1)
 
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
